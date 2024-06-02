@@ -25,8 +25,8 @@ This project aims to analyze historical stock price data and perform backtesting
 
 
 
-Feel free to enhance this README with additional details specific to your project. Happy analyzing! 📈🚀
+
 
 ---
 
-Remember to replace placeholders (such as `your-username`, `analyze_stock_data.py`, and data sources) with actual information relevant to your project. If you have any further questions or need assistance, feel free to ask! 😊
+
